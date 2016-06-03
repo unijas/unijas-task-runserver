@@ -1,0 +1,19 @@
+{
+  "name": "unijas-task-runserver",
+  "version": "0.1.0",
+  "description": "Run server using nodemon in dev or pure in production",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unijas/unijas-task-runserver.git"
+  },
+  "author": "Siggi Duenkel <chaosprinz76@gmail.com> (https://siggiduenkel.wordpress.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/unijas/unijas-task-runserver/issues"
+  },
+  "homepage": "https://github.com/unijas/unijas-task-runserver#readme"
+}
