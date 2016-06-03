@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/unijas/unijas-task-runserver/issues"
   },
-  "homepage": "https://github.com/unijas/unijas-task-runserver#readme"
+  "homepage": "https://github.com/unijas/unijas-task-runserver#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-nodemon": "^2.0.7",
+    "unijas-task-helper": "github:unijas/unijas-task-helper"
+  }
 }
