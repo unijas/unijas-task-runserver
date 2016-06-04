@@ -1,0 +1,14 @@
+{
+  "runserver": {
+    "nodemon": {
+      "script": [
+        ["index.js"]
+      ],
+      "watch": [
+        ["api"],
+        ["index.js"]
+      ],
+      "ext": "js"
+    }
+  }
+}
