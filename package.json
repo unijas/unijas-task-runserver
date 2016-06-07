@@ -19,6 +19,7 @@
   "dependencies": {
     "gulp": "^3.9.1",
     "gulp-nodemon": "^2.0.7",
+    "node-inspector": "^0.12.8",
     "unijas-task-helper": "github:unijas/unijas-task-helper"
   }
 }

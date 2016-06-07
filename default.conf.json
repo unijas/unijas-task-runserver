@@ -1,5 +1,7 @@
 {
   "runserver": {
+    "debug": true,
+    "inspectorFlags": ["--web-port", "8081"],
     "nodemon": {
       "script": [
         ["index.js"]
